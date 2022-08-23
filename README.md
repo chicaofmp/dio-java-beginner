@@ -1,2 +1,4 @@
 # dio-java-beginner
-Java Beginner Course Contents - Dio with Gleyson Sampaio
+Repository to store Contents from Java Beginner Course - Dio with Gleyson Sampaio
+Modifying file content from a Local 
+
